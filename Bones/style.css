@@ -1,0 +1,16 @@
+.player{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+    margin-left: 60%;
+}
+.computer{
+    background-color: cadetblue;
+    height: 100px;
+    width: 100px;
+    margin-left: 25%;
+    margin-top: -100px;
+}
+.button{
+    margin-left: 42%;
+}
